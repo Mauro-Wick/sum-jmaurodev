@@ -1,2 +1,3 @@
 def sum_total(a, b):
-  return a + b
+  result = a + b
+  return result
